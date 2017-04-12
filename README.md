@@ -1,6 +1,7 @@
 # breathe-magazine
 Website Code
 
+
 ## Outline
 
 ### Landing Page
